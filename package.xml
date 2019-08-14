@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>martmobi12345</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license>OSL</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Extension allows re-direction to MartMobi Control Panel for merchants to create beautiful Mobile sites, Native Apps on iOS, Android.</summary>
+    <description>Extension allows re-direction to MartMobi Control Panel for merchants to create beautiful Mobile sites, Native Apps on iOS, Android without any programming effort</description>
+    <notes>re-direction to MartMobi control panel for creating mobile website and native apps.</notes>
+    <authors><author><name>MartMobi </name><user>MartMobi</user><email>hello@martmobi.com</email></author></authors>
+    <date>2014-03-31</date>
+    <time>08:07:18</time>
+    <contents><target name="magelocal"><dir name="Martmobi"><dir name="Redirect"><dir name="controllers"><file name="IndexController.php" hash="a049e345f6fd6cfda5c8aae5249500a1"/></dir><dir name="etc"><file name="config.xml" hash="0d901723aa62ff614458cc69e1c86a32"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Martmobi_Redirect.xml" hash="b1b8a619cba909199028be0ae06c0bc1"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.3.1</min><max>5.5.3</max></php></required></dependencies>
+</package>

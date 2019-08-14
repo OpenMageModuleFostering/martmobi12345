@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <frontend>
+        <routers>
+            <martmobi>
+                <use>standard</use>
+                <args>
+                    <module>Martmobi_Redirect</module>
+                    <frontName>martmobi</frontName>
+                </args>
+            </martmobi>
+        </routers>   
+    </frontend>
+</config>
