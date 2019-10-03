@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/martmobi12345",
+    "name": "OpenMageModuleFostering\/martmobi12345",
     "type": "magento-module",
     "license": "OSL",
     "homepage": "",
     "description": "Extension allows re-direction to MartMobi Control Panel for merchants to create beautiful Mobile sites, Native Apps on iOS, Android.",
     "authors": [
-    {
-        "name": "MartMobi ",
-        "email": "hello@martmobi.com"
-    }
-],
+        {
+            "name": "MartMobi ",
+            "email": "hello@martmobi.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
